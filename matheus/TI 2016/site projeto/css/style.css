@@ -5,11 +5,16 @@
     height: 56%;
 
 }
-.botao
-{
-background: url('facebook.png')  no-repeat;
-
+.botaoface {
+    background: url("../img/facebook.png") no-repeat;
+    height:35px;
+    width:90px;
+    border:0;
+    outline:0;
+    -moz-outline:0;
+    cursor:pointer;
 }
+
 
 .footer {
     left: 0;
